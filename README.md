@@ -4,11 +4,6 @@
 - 👨🏼‍🎓 Tecnico pela [@Cotemig](https://www.cotemig.com.br) Focado em desenvolvimento web.
 - 👨🏼‍🎓 Faculdate pela [@EstacioDeSá](https://estacio.br) Em analise e desenvolvimento de sistemas.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarohmb&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarohmb&layout=compact&langs_count=7&theme=react"/>
-</div>
-
 #### Principais Linguagens e Ferramentas:
 <div>
   <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="git" />
